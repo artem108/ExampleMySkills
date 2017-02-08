@@ -1,0 +1,65 @@
+@media all and ( max-device-width:600px) {
+.wrapper {
+  text-align: center;
+}
+header {
+  width: 980px;
+  height: 1657px;
+  background-image: url(../img/mobile/background.jpg) ;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.header__logIn {
+  padding-top: 24px;
+}
+@font-face {
+  font-family: Montserrat-Bold;
+    src: url(../fonts/Montserrat-Bold.ttf);
+}
+.header__logIn__button {
+  font-family: Montserrat-Bold;
+  width: 36px;
+  height: 25px;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 38px;
+  color: #fff;
+}
+.header__logIn__button:hover {
+ border: 3px solid #fff;
+ border-radius: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

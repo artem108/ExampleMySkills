@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+header {
+}
+.letter {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 70%;
+  text-align: center;
+  background-color: #ccc;
+}
